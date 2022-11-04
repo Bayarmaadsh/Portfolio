@@ -1,0 +1,34 @@
+
+h1 {
+  text-align: left;
+  font-size: 1.5em;
+  color: indigo;
+  
+}
+
+h2 {
+  text-align: center;
+  font-weight:  bold;
+  font-size: 1.3em;
+  color: mediumorchid;
+  text-decoration: underline;
+  
+}
+
+p {
+   background-color: sand;
+   margin-left: 20px;
+   margin-right: 20px;
+   margin-bottom: .3em;
+}
+
+body {
+  font-size: 1em;
+  font-family: serif;
+  background-color: lavender;
+  color : Black;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: .3em;
+  line-height: 1.4em;
+}
